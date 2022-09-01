@@ -9,6 +9,10 @@
 
 @interface ViewController : UIViewController
 
+//swag
+@property (strong, nonatomic) NSArray* swag;
+//swag again
+
 
 @end
 
